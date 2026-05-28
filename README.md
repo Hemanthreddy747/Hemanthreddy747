@@ -1,39 +1,65 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+### Frontend
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,bootstrap" />
 
-###
+<br><br>
 
-<h2 align="left">About me</h2>
+<img src="https://progress-bar.dev/95/?title=ReactJS" />
+<img src="https://progress-bar.dev/82/?title=NextJS" />
+<img src="https://progress-bar.dev/90/?title=JavaScript" />
+<img src="https://progress-bar.dev/85/?title=Redux" />
+<img src="https://progress-bar.dev/88/?title=Responsive%20UI" />
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
+
+<h2 align="left">Frontend Expertise</h2>
+
+###
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="60"/><br><br>
+<b>ReactJS Applications</b><br>
+SPA architecture, reusable components, hooks, state management
+</td>
+
+<td align="center" width="220">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60"/><br><br>
+<b>NextJS Applications</b><br>
+SSR, SEO optimization, dynamic routing, performance-focused apps
+</td>
+
+<td align="center" width="220">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="60"/><br><br>
+<b>Responsive UI Systems</b><br>
+Cross-browser compatible responsive interfaces
+</td>
+</tr>
+</table>
+
+</div>
+
+###
+
+<h2 align="left">Modern Web Stack</h2>
+
+###
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,firebase,fastapi,mongodb,git,github" />
+
+</div>
+
+###
+
+
+
+</div>
