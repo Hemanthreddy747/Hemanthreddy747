@@ -42,28 +42,12 @@ I build modern, responsive, and production-ready applications with strong focus 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap" />
 
-<br><br>
-
-<img src="https://progress-bar.dev/95/?title=React" />
-<img src="https://progress-bar.dev/90/?title=NextJS" />
-<img src="https://progress-bar.dev/92/?title=JavaScript" />
-<img src="https://progress-bar.dev/88/?title=TypeScript" />
-
----
-
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,fastapi,mongodb,mysql,postgres" />
-
----
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode" />
-
 </div>
 
----
+
 
 ## 💡 Core Expertise
 
@@ -107,16 +91,5 @@ APIs • Authentication • Databases • Backend Logic • Deployment
 
 </div>
 
----
 
-<div align="center">
 
-## 📈 Development Focus
-
-🔥 Scalable Products  
-⚡ High Performance UI  
-🧠 AI-integrated Apps  
-📱 Responsive Experiences  
-🚀 Production-ready Systems  
-
-</div>
